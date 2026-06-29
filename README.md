@@ -1,6 +1,6 @@
-# CAPT SysReptor Template
+# Mobile Hacking Lab SysReptor Template
 
-SysReptor report template for the **CAPT (Certified Android Penetration Tester)** exam by [Mobile Hacking Lab](https://www.mobilehackinglab.com). Covers Android attack surface findings classified with OWASP Mobile Top 10, OWASP MASVS and CVSS 3.1. Ready to import (just add your findings).
+SysReptor report template for the **CAPT (Certified Android Penetration Tester)** & **CIPT (Certified iOS Penetration Tester)**exam by [Mobile Hacking Lab](https://www.mobilehackinglab.com). Covers Android & iOS attack surface findings classified with OWASP Mobile Top 10, OWASP MASVS and CVSS 3.1. Ready to import (just add your findings).
 
 <img width="1882" height="895" alt="image" src="https://github.com/user-attachments/assets/887cd082-9ecc-4fb1-807a-46692bfce9d4" />
 
@@ -25,7 +25,7 @@ SysReptor report template for the **CAPT (Certified Android Penetration Tester)*
 
 ## NOTE! - WARNING
 
-This template was exported directly from a completed CAPT exam report. It may contain minor typos or placeholder text from the original submission. **The structure, fields, design and all report logic work perfectly** (just review the content sections before using it for your own report).
+This template was exported directly from a completed CAPT & CIPT exam report. It may contain minor typos or placeholder text from the original submission. **The structure, fields, design and all report logic work perfectly** (just review the content sections before using it for your own report).
 
 ## Requirements
 
