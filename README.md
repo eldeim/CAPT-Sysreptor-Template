@@ -16,7 +16,7 @@ SysReptor report template for the **CAPT (Certified Android Penetration Tester)*
 
 ## How to import
 
-1. Download `MHL-CAPT-Template.tar.gz` from this repository
+1. Download `MHL-Template.tar.gz` from this repository
 2. Open your SysReptor instance
 3. Go to **Designs** → **Import**
 4. Upload the `.tar.gz` file
